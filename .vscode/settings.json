@@ -1,0 +1,14 @@
+{
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/.hg/store/**": true,
+    "**/.trunk/*out/": true,
+    "**/.trunk/*actions/": true,
+    "**/.trunk/*logs/": true,
+    "**/.trunk/*plugins/": true,
+    "**/.git/**": true,
+    "**/node_modules/**": true,
+    "**/.vscode/**": true
+  }
+}
