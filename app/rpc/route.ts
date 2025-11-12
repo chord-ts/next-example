@@ -1,4 +1,3 @@
-// src/app/api/rpc/route.ts
 import { type NextRequest } from 'next/server';
 import { Composer, toRPC } from '@chord-ts/rpc';
 
